@@ -10,14 +10,14 @@ global.APIs = {
 global.owner = ['6285922480867']
 global.premium = ['6285922480867']
 global.youtube = 'https://youtube.com/channel/UCuJIl20q8XWjmdQwEXbZYoQ'
-global.ownername = 'Riy'
-global.botname ='Hinata-Md'
+global.ownername = 'Ky'
+global.botname ='CyansssXd'
 global.donasi = {
     saweria: 'https://saweria.co/Seira1',
     nomor: '085922480867'
 }
 global.packname = 'CyansssXd'
-global.author = 'WhatsApp Bot'
+global.author = '© kyyFvx'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
